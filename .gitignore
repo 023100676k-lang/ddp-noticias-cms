@@ -1,0 +1,28 @@
+﻿# Archivos de configuracion local (NO subir)
+conexion.php
+frontend/conexion.php
+encriptar.php
+
+# Carpetas que no deben subirse
+/uploads/
+/frontend/uploads/
+/vendor/
+/_backup_ejemplos/
+/_backup/
+/proyecto2_produccion/
+/scss/
+/assets/
+/icons/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+
+# Archivos de VS Code
+.vscode/
+*.code-workspace
+
+# Archivos innecesarios
+.qodo/
